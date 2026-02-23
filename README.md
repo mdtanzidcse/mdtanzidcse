@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2 align="center">Hi, I am Md Tanzid 👋</h2>
 
-<!--
-**mdtanzidcse/mdtanzidcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year BSc Computer Science and Engineering student at Southeast University, a **Networking Specialist**, and a **Blockchain Researcher**. I thrive on designing robust network infrastructures, optimizing system performance, and exploring decentralized solutions for supply chain management using Hyperledger Fabric and smart contracts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Core Technology Stack
+
+| Category | Primary Technologies | Secondary Technologies |
+| :--- | :--- | :--- |
+| **Networking & Hardware** | Cisco, Juniper, Huawei, MikroTik | Routing & Switching, VLANs, BGP, OSPF |
+| **Systems & Security** | Windows Server 2016, Linux | Ethical Hacking, Penetration Testing |
+| **Blockchain & Web3** | Hyperledger Fabric, Smart Contracts | IPFS, Decentralized Architecture |
+| **Languages & Core CS** | Python, C++ | Wireshark, OS Resource Management |
+
+---
+
+### 💡 Specialized Engineering Domains
+
+My experience encompasses high-demand, specialized areas in enterprise networking, security, and academic research:
+
+#### 🌐 Enterprise Network Engineering & NOC Operations
+* Served as an **Assistant Engineer at the Network Operation Centre (NOC)** for Jadoo Broadband Limited and Velocity Network.
+* Extensive hands-on experience in configuring, troubleshooting, and managing enterprise equipment including **Cisco switches**, **Huawei switches**, **Juniper routers**, and **MikroTik routing/switching**.
+* Expertise in IPv4/IPv6, VLANs, advanced routing protocols (RIP, OSPF, BGP), VPNs, and bandwidth management.
+* Previously provided Network & ISP Support at KAIZEN IT LTD for network optimization and performance monitoring.
+
+#### 🔗 Blockchain Research & Development
+* Active researcher focusing on the intersection of Blockchain, IoT, and supply chain management.
+* Conducted in-depth research and developed a decentralized traceability system specifically for the **Halal Poultry Supply Chain** utilizing Blockchain technology.
+
+#### 🛡️ Cybersecurity & Systems Administration
+* Knowledgeable in vulnerability analysis, network scanning, and IDS/IPS evasion using Kali Linux tools.
+* Skilled in Active Directory (ADDS), DNS, DHCP, and advanced security/audit policies within Windows Server environments.
