@@ -11,7 +11,7 @@ I'm a final-year BSc Computer Science and Engineering student at Southeast Unive
 | **Networking & Hardware** | Cisco, Juniper, Huawei, MikroTik | Routing & Switching, VLANs, BGP, OSPF |
 | **Systems & Security** | Windows Server 2016, Linux | Ethical Hacking, Penetration Testing |
 | **Blockchain & Web3** | Hyperledger Fabric, Smart Contracts | IPFS, Decentralized Architecture |
-| **Languages & Core CS** | Python, C++ | Wireshark, OS Resource Management |
+| **Languages & Core CS** | Python, C++ | Wireshark|
 
 ---
 
