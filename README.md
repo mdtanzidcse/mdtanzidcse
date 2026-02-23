@@ -11,7 +11,7 @@ I'm a final-year BSc Computer Science and Engineering student at Southeast Unive
 | **Networking & Hardware** | Cisco, Juniper, Huawei, MikroTik | Routing & Switching, VLANs, BGP, OSPF |
 | **Systems & Security** | Windows Server 2016, Linux | Ethical Hacking, Penetration Testing |
 | **Blockchain & Web3** | Hyperledger Fabric, Smart Contracts | IPFS, Decentralized Architecture |
-| **Languages & Core CS** | Python, C++ | Wireshark|
+| **Languages & Core CS** | Python, C++ | Wireshark, OS Resource Management |
 
 ---
 
@@ -32,3 +32,10 @@ My experience encompasses high-demand, specialized areas in enterprise networkin
 #### 🛡️ Cybersecurity & Systems Administration
 * Knowledgeable in vulnerability analysis, network scanning, and IDS/IPS evasion using Kali Linux tools.
 * Skilled in Active Directory (ADDS), DNS, DHCP, and advanced security/audit policies within Windows Server environments.
+
+---
+
+### 🏆 Leadership & Extracurricular Activities
+
+* **Team Lead & Executive Member (3 Years):** Served in leadership roles, including Senior Executive Member and Assistant Treasurer, at the **Southeast University Computer Club**.
+* Actively involved in team leadership, event management, and contributing to the successful planning and execution of various tech programs and club activities.
