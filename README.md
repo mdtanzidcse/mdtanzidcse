@@ -35,7 +35,7 @@ My experience encompasses high-demand, specialized areas in enterprise networkin
 
 ---
 
-### 🏆 Leadership & Extracurricular Activities
+### 🎓 Professional Training & Leadership
 
-* **Team Lead & Executive Member (3 Years):** Served in leadership roles, including Senior Executive Member and Assistant Treasurer, at the **Southeast University Computer Club**.
-* Actively involved in team leadership, event management, and contributing to the successful planning and execution of various tech programs and club activities.
+* **Network System Administration:** Completed a comprehensive 6-month (460 hours) professional training under the prestigious **ISDB-BISEW IT Scholarship Programme**.
+* **Team Lead & Executive Member (3 Years):** Served in leadership roles, including Senior Executive Member and Assistant Treasurer, at the **Southeast University Computer Club**, actively involved in team leadership and event management.
